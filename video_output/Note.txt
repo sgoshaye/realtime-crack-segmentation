@@ -1,0 +1,1 @@
+output.mp4 and output_canny.mp4 will appear here after running detect_cracks.py
