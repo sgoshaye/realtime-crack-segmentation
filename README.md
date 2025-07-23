@@ -2,7 +2,7 @@
 
 Real-time pavement crack detection and segmentation using a fine-tuned **YOLOv8** model, with a classic **Canny Edge** pipeline as a baseline. Includes a multithreaded OpenCV system for interactive Canny parameter tuning.
 
-## Click for Video Demonstration
+## Video Demonstration
 
 [![Real Time Crack Segmentation Project](https://img.youtube.com/vi/b1YT1ybdzcg/0.jpg)](https://www.youtube.com/watch?v=b1YT1ybdzcg)
 
