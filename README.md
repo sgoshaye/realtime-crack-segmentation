@@ -37,7 +37,3 @@ detect_cracks.py # main script: run YOLO or Canny pipelines
 
 ## Known Limitation
 OpenCV trackbar labels: clicking to type values works once per kernel session; subsequent clicks can freeze the GUI. (Dragging sliders is fine.)
-
-
-## Known Limitation
-OpenCV trackbar labels: clicking to type values works once per kernel session; subsequent clicks can freeze the GUI. (Dragging sliders is fine.)
